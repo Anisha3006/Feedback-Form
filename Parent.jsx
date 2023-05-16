@@ -22,7 +22,6 @@ function Parent() {
         backgroundColor:'pink',
         display:'inline-block',
         padding:'9px',
-        margin:'500px'
     }
     const handleChangeName=(e)=>{
         console.log('typing...');
